@@ -1,0 +1,134 @@
+{
+  "blog_list": [
+    {
+      "image": "/image/news-letter-1.png",
+      "width": 461,
+      "height": 276,
+      "alt": "blog image",
+      "read_button": "Read More",
+      "date": "May 21, 2018",
+      "title": "The Modest Living Space Furnishings",
+      "slug": "The-modest-living-space-furnishings",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    },
+    {
+      "image": "/image/news-letter-2.png",
+      "width": 461,
+      "height": 276,
+      "alt": "blog image",
+      "read_button": "Read More",
+      "date": "May 21, 2018",
+      "title": "Elevate Your Home With Stylish",
+      "slug": "elevate-your-home-with-stylish",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    },
+    {
+      "image": "/image/news-letter-3.png",
+      "width": 461,
+      "height": 276,
+      "read_button": "Read More",
+      "alt": "blog image",
+      "date": "May 21, 2018",
+      "title": "Lectus mauris ultrices eros",
+      "slug": "lectus-mauris-ultrices-eros",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    },
+    {
+      "image": "/image/news-letter-4.png",
+      "width": 461,
+      "height": 276,
+      "read_button": "Read More",
+      "alt": "blog image",
+      "date": "May 21, 2018",
+      "title": "Tips For Designing Reading Area",
+      "slug": "tips-for-designing-reading-area",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    },
+    {
+      "image": "/image/news-letter-5.png",
+      "width": 461,
+      "height": 276,
+      "alt": "blog image",
+      "read_button": "Read More",
+      "date": "May 21, 2018",
+      "title": "The Modest Living Space",
+      "slug": "the-modest-living-space",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    },
+    {
+      "image": "/image/news-letter-6.png",
+      "width": 461,
+      "height": 276,
+      "alt": "blog image",
+      "read_button": "Read More",
+      "date": "May 21, 2018",
+      "title": "Lectus mauris ultrices eros",
+      "slug": "lectus-mauris-ultrices-eross",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    },
+    {
+      "image": "/image/news-letter-1.png",
+      "width": 461,
+      "height": 276,
+      "alt": "blog image",
+      "read_button": "Read More",
+      "date": "May 21, 2018",
+      "title": "The Modest Living Space Furnishings",
+      "slug": "The-modest-living-space-furnishings",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod."
+    }
+  ],
+  "admin_image": "/image/admin.png",
+  "width": 271,
+  "height": 271,
+  "alt": "blog admin image",
+  "name": "Michelle Gibson",
+  "email": "michelle1209@lorem.com",
+  "categories": "PRODUCT CATEGORIES",
+  "category_list": [
+    "Chairs",
+    "Decor",
+    "Furnitures",
+    "Lighting",
+    "Product Masonry",
+    "Sofas",
+    "Stools",
+    "Uncategorized"
+  ],
+  "latest_post_title": "latest post",
+  "latest_post_list": [
+    {
+      "image": "/image/latest-post-1.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Studio coordinator"
+    },
+    {
+      "image": "/image/latest-post-2.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Ponti morandi"
+    },
+    {
+      "image": "/image/latest-post-3.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Casual Wear bags"
+    },
+    {
+      "image": "/image/latest-post-4.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Latast Fashions Trend"
+    }
+  ],
+  "title": "Blog"
+}

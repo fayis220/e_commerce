@@ -1,0 +1,280 @@
+{
+  "hero_title": "Creative Design Modern & Exclusive Furniture",
+  "label": "Loarem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquet nisi nec eros venenatis, ac lacinia justo vulputate. Ut vestibulum, mauris eu mattis rutrum, leo magna eleifend justo, et fringilla velit purus vel nisl. Morbi dignissim tristique lorem, ac vehicula odio luctus eu.",
+  "button": "Explore",
+  "button_slug": "/gallery",
+  "hero_image": "/image/hero-img.png",
+  "width": 556,
+  "height": 474,
+  "homepage_services_list": [
+    {
+      "title": "Free Return An Exchange",
+      "label": "Donec nunc nunc, gravida vitae diam vel, varius interdum erat",
+      "image": "/image/exchange-dollar-svgrepo-com.svg",
+      "width": 36.22,
+      "height": 36.22
+    },
+    {
+      "title": "Free Shipping On All Orders",
+      "label": "Donec nunc nunc, gravida vitae diam vel, varius interdum erat",
+      "image": "/image/plane-solid.svg",
+      "width": 33.75,
+      "height": 30
+    },
+    {
+      "title": "24 / 7 Customer Support",
+      "label": "Donec nunc nunc, gravida vitae diam vel, varius interdum erat",
+      "image": "/image/Shape.svg",
+      "width": 31.52,
+      "height": 31.64
+    },
+    {
+      "title": "100% Genuine commitment",
+      "label": "Donec nunc nunc, gravida vitae diam vel, varius interdum erat",
+      "image": "/image/shield-alt-solid.svg",
+      "width": 30.94,
+      "height": 30
+    }
+  ],
+  "our_products_title": "Our Products",
+  "our_product_button": "View All",
+  "our_products_list": [
+    {
+      "id": 1,
+      "image": "/image/product-1.png",
+      "width": 201,
+      "height": 181,
+      "alt": "product image",
+      "title": "Wood Clock",
+      "main_price": "150.00",
+      "price": "90.00",
+      "add_cart_btn": "Add To Cart",
+      "slug": "wood-clock",
+      "onsale": "Sale"
+    },
+    {
+      "id": 2,
+
+      "image": "/image/product-2.png",
+      "width": 201,
+      "height": 181,
+      "alt": "product image",
+      "title": "Wood Table",
+      "main_price": "150.00",
+      "price": "90.00",
+      "add_cart_btn": "Add To Cart",
+      "slug": "wood-table",
+      "onsale": "Sale"
+    },
+    {
+      "id": 3,
+      "image": "/image/product-3.png",
+      "width": 201,
+      "height": 181,
+      "alt": "product image",
+      "title": "Wood lamp",
+      "main_price": "150.00",
+      "price": "90.00",
+      "add_cart_btn": "Add To Cart",
+      "slug": "wood-lamp",
+      "onsale": "Sale"
+    },
+    {
+      "id": 4,
+      "image": "/image/product-5.png",
+      "width": 201,
+      "height": 181,
+      "alt": "product image",
+      "title": "Sofa",
+      "main_price": "150.00",
+      "price": "90.00",
+      "add_cart_btn": "Add To Cart",
+      "slug": "sofa",
+      "onsale": "Sale"
+    },
+    {
+      "id": 5,
+      "image": "/image/product-4.png",
+      "width": 201,
+      "height": 181,
+      "alt": "product image",
+      "title": "Bow Chair",
+      "main_price": "150.00",
+      "price": "90.00",
+      "add_cart_btn": "Add To Cart",
+      "slug": "bow-chair",
+      "onsale": "Sale"
+    }
+  ],
+  "blog_title": "Blogs and news",
+
+  "blog_label": "Our Insights & Articles",
+  "blog_list": [
+    {
+      "image": "/image/news-letter-1.png",
+      "width": 409,
+      "height": 246,
+      "alt": "Blog Image",
+      "date": "May 21, 2018",
+      "title": "Sed enim ut sem viverra",
+      "slug": "sed-enim-ut-sem-viverra",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+      "read_button": "Read More"
+    },
+    {
+      "image": "/image/news-letter-2.png",
+      "width": 409,
+      "height": 246,
+      "alt": "Blog Image",
+      "date": "May 21, 2018",
+      "title": "Lectus mauris ultrices eros",
+      "slug": "lectuss-mauris-ultrices-eross",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+      "read_button": "Read More"
+    },
+    {
+      "image": "/image/news-letter-3.png",
+      "width": 409,
+      "height": 246,
+      "alt": "Blog Image",
+      "date": "May 21, 2018",
+      "title": "Sed enim ut sem viverra",
+      "slug": "fames-ac-turpis-egestas-maecenas",
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+      "read_button": "Read More"
+    }
+  ],
+  "our_offer_title": "Our Best Offer's",
+  "slug": "handcrafted-modern-lemp",
+  "image": "/image/best-offer.jpg",
+  "id": 6,
+  "title": "Handcrafted Modern Lemp",
+  "detail": "Sentiments two occasional affronting solicitude travelling and one contrasted.Now summer contrasted who day looked our behind moment coming. Mrs assured add private married removed .Now assured believe did she. You high bed wish help call draw side.",
+  "price": "90.00",
+  "main_price": "160.99",
+  "video_title": "Customizable and adaptable solutions",
+  "video_detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation . Lorem ipsum dolor sit amet, consectetur sed",
+  "video_btn": "Discover More",
+  "list": [
+    {
+      "title": "10k+",
+      "content": "Products Sold"
+    },
+    {
+      "title": "35",
+      "content": "Years Service"
+    },
+    {
+      "title": "450",
+      "content": "Outlets Worldwide"
+    },
+    {
+      "title": "1000+",
+      "content": "Satisfied Customers"
+    }
+  ],
+  "testimonial": [
+    {
+      "name": "Steve Same Joiden",
+      "position": "Customer",
+      "image": "/image/user.png",
+      "width": 100,
+      "height": 100,
+      "label": " Sentiments two occasional affronting solicitude travelling and one contrasted.Now summer contrasted who day looked our behind moment coming. Mrs assured add private married removed .Now assured believe did she. You high bed wish help call draw side."
+    },
+    {
+      "name": "Steve Same Joiden",
+      "position": "Customer",
+      "image": "/image/user.png",
+      "width": 100,
+      "height": 100,
+      "label": " Sentiments two occasional affronting solicitude travelling and one contrasted.Now summer contrasted who day looked our behind moment coming. Mrs assured add private married removed .Now assured believe did she. You high bed wish help call draw side."
+    },
+    {
+      "name": "Steve Same Joiden",
+      "position": "Customer",
+      "image": "/image/user.png",
+      "width": 100,
+      "height": 100,
+      "label": " Sentiments two occasional affronting solicitude travelling and one contrasted.Now summer contrasted who day looked our behind moment coming. Mrs assured add private married removed .Now assured believe did she. You high bed wish help call draw side."
+    }
+  ],
+  "testimonial_image": "/image/testimonials.png",
+  "testimonial_width": 626,
+  "testimonial_height": 417,
+  "brands_title": "Empowering Global Furniture Brands",
+  "brands_list": [
+    {
+      "image": "/image/brand_1.svg",
+      "width": 304,
+      "height": 137,
+      "alt": "brand image",
+      "image_one": "/image/brand_one.png",
+      "width_one": 151,
+      "height_one": 38
+    },
+    {
+      "image": "/image/brand_2.svg",
+      "width": 304,
+      "height": 137,
+      "alt": "brand image",
+      "image_one": "/image/brand_two.png",
+      "width_one": 151,
+      "height_one": 38
+    },
+    {
+      "image": "/image/brand_3.svg",
+      "width": 304,
+      "height": 137,
+      "alt": "brand image",
+      "image_one": "/image/brand_three.png",
+      "width_one": 151,
+      "height_one": 38
+    },
+    {
+      "image": "/image/brand_4.svg",
+      "width": 304,
+      "height": 137,
+      "alt": "brand image",
+      "image_one": "/image/brand_four.png",
+      "width_one": 151,
+      "height_one": 38
+    },
+    {
+      "image": "/image/brand_5.svg",
+      "width": 304,
+      "height": 137,
+      "alt": "brand image",
+      "image_one": "/image/brand_five.png",
+      "width_one": 151,
+      "height_one": 38
+    },
+    {
+      "image": "/image/brand_6.svg",
+      "width": 304,
+      "height": 137,
+      "alt": "brand image",
+      "image_one": "/image/brand-six.png",
+      "width_one": 151,
+      "height_one": 38
+    },
+    {
+      "image": "/image/brand_1.svg",
+      "width": 304,
+      "height": 137,
+      "alt": "brand image",
+      "image_one": "/image/brand_one.png",
+      "width_one": 151,
+      "height_one": 38
+    },
+    {
+      "image": "/image/brand_2.svg",
+      "width": 304,
+      "height": 137,
+      "alt": "brand image",
+      "image_one": "/image/brand_two.png",
+      "width_one": 151,
+      "height_one": 38
+    }
+  ]
+}

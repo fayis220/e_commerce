@@ -1,0 +1,222 @@
+{
+  "categoty_title": "PRODUCT CATEGORIES",
+  "category_list": [
+    { "title": "Chairs", "slug": "chair" },
+    { "title": "Decor", "slug": "decor" },
+    { "title": "Furnitures", "slug": "furnitures" },
+    { "title": "Lighting", "slug": "lighting" },
+    { "title": "Product Masonry", "slug": "product-masonry" },
+    { "title": "Sofas", "slug": "sofas" },
+    { "title": "Stools", "slug": "stools" },
+    { "title": "Uncategorized", "slug": "uncategorized" }
+  ],
+  "filter_title": "FILTER BY",
+  "color_list": [
+    {
+      "title": "Brown",
+      "class": "",
+      "number": "1"
+    },
+    {
+      "title": "Green",
+      "class": "green",
+      "number": "2"
+    },
+    {
+      "title": "Red",
+      "class": "red",
+      "number": "2"
+    },
+    {
+      "title": "Blue",
+      "class": "blue",
+      "number": "5"
+    },
+    {
+      "title": "Dark",
+      "class": "dark",
+      "number": "9"
+    }
+  ],
+  "insta_title": "Instagram",
+  "post_list": [
+    {
+      "image": "/image/filter.png",
+      "width": 80,
+      "height": 80,
+      "alt": "insta post image"
+    },
+    {
+      "image": "/image/filter1.png",
+      "width": 80,
+      "height": 80,
+      "alt": "insta post image"
+    },
+    {
+      "image": "/image/filter2.png",
+      "width": 80,
+      "height": 80,
+      "alt": "insta post image"
+    },
+    {
+      "image": "/image/filter3.png",
+      "width": 80,
+      "height": 80,
+      "alt": "insta post image"
+    },
+    {
+      "image": "/image/filter4.png",
+      "width": 80,
+      "height": 80,
+      "alt": "insta post image"
+    },
+    {
+      "image": "/image/filter5.png",
+      "width": 80,
+      "height": 80,
+      "alt": "insta post image"
+    },
+    {
+      "image": "/image/filter6.png",
+      "width": 80,
+      "height": 80,
+      "alt": "insta post image"
+    },
+    {
+      "image": "/image/filter7.png",
+      "width": 80,
+      "height": 80,
+      "alt": "insta post image"
+    }
+  ],
+  "product_list": [
+    {
+      "id": 21,
+      "image": "/image/shop1.png",
+      "width": 223,
+      "height": 256,
+      "alt": "",
+      "onsale": "Sale",
+      "add_cart_btn": "Add To Cart",
+      "title": "Wood Table",
+      "slug": "wooden-design-table",
+      "price": "90.00",
+      "main_price": "150.00",
+      "rating": 4,
+      "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu justo. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac"
+    },
+    {
+      "id": 22,
+      "image": "/image/shop2.png",
+      "width": 223,
+      "height": 256,
+      "alt": "",
+      "onsale": "Sale",
+      "add_cart_btn": "Add To Cart",
+      "title": "Decor",
+      "slug": "decor",
+      "price": "90.00",
+      "main_price": "150.00",
+      "rating": 4,
+      "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu justo. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac"
+    },
+    {
+      "id": 23,
+      "image": "/image/shop3.png",
+      "width": 223,
+      "height": 256,
+      "alt": "",
+      "onsale": "Sale",
+      "add_cart_btn": "Add To Cart",
+      "title": "Furnitures",
+      "slug": "furnitures",
+      "price": "90.00",
+      "main_price": "150.00",
+      "rating": 4,
+      "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu justo. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac"
+    },
+    {
+      "id": 24,
+      "image": "/image/shop4.png",
+      "width": 223,
+      "height": 256,
+      "alt": "",
+      "onsale": "Sale",
+      "add_cart_btn": "Add To Cart",
+      "title": "Lighting",
+      "slug": "lighting",
+      "price": "90.00",
+      "main_price": "150.00",
+      "rating": 4,
+      "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu justo. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac"
+    },
+    {
+      "id": 25,
+      "image": "/image/shop5.png",
+      "width": 223,
+      "height": 256,
+      "alt": "",
+      "onsale": "Sale",
+      "add_cart_btn": "Add To Cart",
+      "title": "Wood Clock",
+      "slug": "wood-wall-clock",
+      "price": "90.00",
+      "main_price": "150.00",
+      "rating": 4,
+      "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu justo. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac"
+    },
+    {
+      "id": 26,
+      "image": "/image/shop6.png",
+      "width": 223,
+      "height": 256,
+      "alt": "",
+      "onsale": "Sale",
+      "add_cart_btn": "Add To Cart",
+      "title": "Round Clock",
+      "slug": "round-clock",
+      "price": "90.00",
+      "main_price": "150.00",
+      "rating": 4,
+      "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu justo. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac"
+    },
+    {
+      "id": 27,
+      "image": "/image/shop7.png",
+      "width": 223,
+      "height": 256,
+      "alt": "",
+      "onsale": "Sale",
+      "add_cart_btn": "Add To Cart",
+      "title": "Chair",
+      "slug": "chair",
+      "price": "90.00",
+      "main_price": "150.00",
+      "rating": 4,
+      "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu justo. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac"
+    },
+    {
+      "id": 28,
+      "image": "/image/shop8.png",
+      "width": 223,
+      "height": 256,
+      "alt": "",
+      "onsale": "Sale",
+      "add_cart_btn": "Add To Cart",
+      "title": "Stools",
+      "slug": "stools",
+      "price": "90.00",
+      "main_price": "150.00",
+      "rating": 4,
+      "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu justo. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac"
+    }
+  ],
+  "option_select": ["Sort by date", "One", "Two", "Three"],
+  "title": "Shop ",
+  "options": [
+    { "value": "default", "label": "Default" },
+    { "value": "low-to-high", "label": "Low to High" },
+    { "value": "high-to-low", "label": "High to Low" },
+    { "value": "three", "label": "Best Seller" }
+  ]
+}

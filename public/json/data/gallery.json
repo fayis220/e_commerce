@@ -1,0 +1,103 @@
+{
+  "gallery_list": [
+    {
+      "image": "/image/gallery-4.png",
+      "width": 393,
+      "height": 589,
+      "alt": "gallery image",
+      "delay": 100,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-11.png",
+      "width": 393,
+      "height": 393,
+      "alt": "gallery image",
+      "delay": 200,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-1.png",
+      "width": 393,
+      "height": 393,
+      "alt": "gallery image",
+      "delay": 300,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-9.png",
+      "width": 393,
+      "height": 393,
+      "alt": "gallery image",
+      "delay": 400,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-10.png",
+      "width": 393,
+      "height": 393,
+      "alt": "gallery image",
+      "delay": 500,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-2.png",
+      "width": 1240,
+      "height": 476,
+      "alt": "gallery image",
+      "class": "grid-item-width2",
+      "delay": 600,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-7.png",
+      "width": 393,
+      "height": 393,
+      "alt": "gallery image",
+      "delay": 700,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-8.png",
+      "width": 393,
+      "height": 393,
+      "alt": "gallery image",
+      "delay": 800,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-5.png",
+      "width": 393,
+      "height": 590,
+      "alt": "gallery image",
+      "delay": 900,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-8.png",
+      "width": 393,
+      "height": 393,
+      "alt": "gallery image",
+      "delay": 1000,
+      "duration": 1500
+    },
+    {
+      "image": "/image/gallery-6.png",
+      "width": 393,
+      "height": 393,
+      "alt": "gallery image",
+      "delay": 1100,
+      "duration": 1500
+    },
+    {
+      
+      "image": "/image/gallery-4.png",
+      "width": 393,
+      "height": 589,
+      "alt": "gallery image",
+      "delay": 100,
+      "duration": 1500
+    }
+  ],
+  "title": "Gallery"
+}

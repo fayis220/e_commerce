@@ -1,0 +1,452 @@
+{
+  "title": "Our Team",
+  "label": "Vestibulum ultricies aliquam convallis. Maecenas ut tellus mi. lectus ante metus lacinia tellus, vitae condimentum",
+  "tabs": ["All Team Member", "All Manager", "creative Designer"],
+  "all_team_member": [
+    {
+      "image": "/image/team-member-1.png",
+      "width": 130,
+      "height": 130,
+      "name": "Jhonathan Jodan",
+      "position": "Co.founder",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-2.png",
+      "width": 130,
+      "height": 130,
+      "name": "Ms. Veronica",
+      "position": "CEO",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-3.png",
+      "width": 130,
+      "height": 130,
+      "name": "Austin Boris",
+      "position": "Team Leader",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-4.png",
+      "width": 130,
+      "height": 130,
+      "name": "Jhonathan Jodan",
+      "position": "Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-5.png",
+      "width": 130,
+      "height": 130,
+      "name": "Roy Gomez",
+      "position": "Marketing Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-6.png",
+      "width": 130,
+      "height": 130,
+      "name": "Ayomide Regan",
+      "position": "Marketing Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-7.png",
+      "width": 130,
+      "height": 130,
+      "name": "Mike Tegar",
+      "position": "Creative Designer",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-8.png",
+      "width": 130,
+      "height": 130,
+      "name": "Sampson Totton",
+      "position": "Retail Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-9.png",
+      "width": 130,
+      "height": 130,
+      "name": "Missa Santos",
+      "position": "Creative Designer",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-10.png",
+      "width": 130,
+      "height": 130,
+      "name": "Lisa Antinia",
+      "position": "Creative Designer",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-11.png",
+      "width": 130,
+      "height": 130,
+      "name": "Mattie Blooman",
+      "position": "Creative Designer",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-12.png",
+      "width": 130,
+      "height": 130,
+      "name": "Chioke Chinasa",
+      "position": "Retail Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    }
+  ],
+  "all_manager": [
+    {
+      "image": "/image/team-member-4.png",
+      "width": 130,
+      "height": 130,
+      "name": "Jhonathan Jodan",
+      "position": "Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-5.png",
+      "width": 130,
+      "height": 130,
+      "name": "Roy Gomez",
+      "position": "Marketing Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-6.png",
+      "width": 130,
+      "height": 130,
+      "name": "Ayomide Regan",
+      "position": "Marketing Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-8.png",
+      "width": 130,
+      "height": 130,
+      "name": "Sampson Totton",
+      "position": "Retail Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-12.png",
+      "width": 130,
+      "height": 130,
+      "name": "Chioke Chinasa",
+      "position": "Retail Manager",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    }
+  ],
+  "creative_designer": [
+    {
+      "image": "/image/team-member-7.png",
+      "width": 130,
+      "height": 130,
+      "name": "Mike Tegar",
+      "position": "Creative Designer",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-9.png",
+      "width": 130,
+      "height": 130,
+      "name": "Missa Santos",
+      "position": "Creative Designer",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-10.png",
+      "width": 130,
+      "height": 130,
+      "name": "Lisa Antinia",
+      "position": "Creative Designer",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    },
+    {
+      "image": "/image/team-member-11.png",
+      "width": 130,
+      "height": 130,
+      "name": "Mattie Blooman",
+      "position": "Creative Designer",
+      "social_media": [
+        {
+          "link": "https://www.facebook.com/",
+          "class": "fa-facebook-f"
+        },
+        {
+          "link": "https://twitter.com",
+          "class": "fa-twitter"
+        },
+        {
+          "link": "https://dribbble.com/",
+          "class": "fa-dribbble"
+        }
+      ]
+    }
+  ]
+}

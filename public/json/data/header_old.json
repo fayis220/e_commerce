@@ -1,0 +1,144 @@
+{
+    "header_menu": [
+      {
+        "title": "Home",
+        "slug": "/"
+      },
+      {
+        "title": "Pages",
+        "slug": "",
+        "class": "menu-item",
+        "sub_menu": [
+          {
+            "title": "Service",
+            "slug": "/service"
+          },
+          {
+            "title": "Gallery",
+            "slug": "/gallery"
+          },
+          {
+            "title": "Contact Us",
+            "slug": "/contact-us"
+          },
+          {
+            "title": "Error-404",
+            "slug": "/error-404"
+          },
+          {
+            "title": "Wishlist",
+            "slug": "/wishlist"
+          },
+          {
+            "title": "Our Team ",
+            "slug": "/our-team"
+          },
+          {
+            "title": "Sign In",
+            "slug": "/sign-in"
+          },
+          {
+            "title": "Sign Up",
+            "slug": "/sign-up"
+          },
+          {
+            "title": "Track Order",
+            "slug": "/track-order"
+          },
+          {
+            "title": "Privacy Policy",
+            "slug": "/privacy-policy"
+          },
+          {
+            "title": "Terms Condition",
+            "slug": "/terms-condition"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "slug": "/service"
+      },
+      {
+        "title": "Gallery",
+        "slug": "/gallery"
+      },
+      {
+        "title": "About",
+        "slug": "/about-us"
+      },
+      {
+        "title": "Shop",
+        "slug": "",
+  
+        "class": "menu-item",
+        "sub_menu": [
+          {
+            "title": "Shop",
+            "slug": "/shop"
+          },
+          {
+            "title": "Shipping",
+            "slug": "/shipping"
+          },
+          {
+            "title": "Shopping Cart",
+            "slug": "/shopping-cart"
+          },
+          {
+            "title": "Single Product",
+            "slug": "/single-product"
+          }
+        ]
+      },
+      {
+        "title": "Blog",
+        "slug": "",
+  
+        "class": "menu-item",
+        "sub_menu": [
+          {
+            "title": "Blog",
+            "slug": "/blog"
+          },
+          {
+            "title": "Blog Classic",
+            "slug": "/blog-classic"
+          },
+          {
+            "title": "Blog Details",
+            "slug": "/blog-details"
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "slug": "/contact-us"
+      }
+    ],
+    "list_button": [
+      {
+        "image": "/image/user-icon.svg",
+        "width": 17,
+        "height": 19,
+        "alt": "user icon",
+        "class": "user-icon",
+        "link": "/sign-in"
+      },
+      {
+        "image": "/image/wishlist-icon.svg",
+        "width": 20,
+        "height": 17,
+        "alt": "wishlist icon",
+        "class": "wishlist-icon",
+        "link": "/wishlist"
+      }
+    ],
+    "search_icon":"/image/search-icon.svg",
+    "cart_icon":"/image/cart-icon.svg",
+    "toggle_menu_icon":"/image/toggle-menu-icon.svg",
+    "logo_image": "/image/Furniture-logo-2.png",
+    "width": 191,
+    "height": 44
+  }
+  

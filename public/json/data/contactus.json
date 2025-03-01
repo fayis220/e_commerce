@@ -1,0 +1,44 @@
+{
+  "page_data":"Contact Us",
+  "title": "Get In Touch",
+  "label": "Sed id semper risus in hendrerit gravida rutrum quisque. Vitae proin sagittis nisl Vel elit scelerisque mauris rhoncus mattis rhoncus urna.",
+  "contact_list": [
+    {
+      "icon": "fas fa-location-arrow",
+      "details": "123 Suspendis matti, Visaosang District, NY Accums, North America",
+      "type": "address",
+      "dataAosDelay": 100
+    },
+    {
+      "icon": "fas fa-phone-volume",
+      "details": [
+        {
+          "number": "0193-475-765",
+          "time": "8am - 8pm"
+        },
+        {
+          "number": "0123-456-789",
+          "time": "8am - 9pm"
+        }
+      ],
+      "type": "phone",
+      "dataAosDelay": 200
+    },
+    {
+      "icon": "far fa-clock",
+      "details": [
+        "Mon-Fri : 08 : 00AM To 08 : 00PM",
+        "Saturday : 08 : 00AM To 12 : 00PM"
+      ],
+      "type": "hours",
+      "dataAosDelay": 300
+    },
+    {
+      "icon": "fas fa-envelope-open-text",
+      "details": ["support@domain.com", "support@yahoo.co.in"],
+      "type": "email",
+      "dataAosDelay": 400
+    }
+  ],
+  "map_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119066.41264374652!2d72.75225623680046!3d21.15934583219656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04e59411d1563%3A0xfe4558290938b042!2sSurat%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1640666877901!5m2!1sen!2sin"
+}

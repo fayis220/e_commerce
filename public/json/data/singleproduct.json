@@ -1,0 +1,109 @@
+{
+  "page_data":"Single Product",
+  "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+  "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+  "unorderlist_title": "Sample Unordered List",
+  "unorder_list": [
+    "Comodous in tempor ullamcorper miaculis",
+    "Pellentesque vitae neque mollis urna mattis laoreet.",
+    "Divamus sit amet purus justo.",
+    "Proin molestie egestas orci ac suscipit risus posuere loremous"
+  ],
+  "orderlist_title": "Sample Ordered List",
+  "order_list": [
+    "Pellentesque vitae neque mollis urna mattis laoreet.",
+    "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+    "Comodous in tempor ullamcorper miaculis",
+    "Divamus sit amet purus justo."
+  ],
+  "paragraph_text_title": "Sample Paragraph Text",
+  "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+  "product_slider": [
+    {
+      "image": "/image/single-product.png",
+      "width": 626,
+      "height": 626,
+      "alt": "product image"
+    },
+    {
+      "image": "/image/single-product.png",
+      "width": 626,
+      "height": 626,
+      "alt": "product image"
+    },
+    {
+      "image": "/image/single-product.png",
+      "width": 626,
+      "height": 626,
+      "alt": "product image"
+    },
+    {
+      "image": "/image/single-product.png",
+      "width": 626,
+      "height": 626,
+      "alt": "product image"
+    }
+  ],
+  "id": 11,
+  "rating": 4,
+  "image": "/image/single-product.png",
+  "width": 626,
+  "height": 626,
+  "alt": "product image",
+  "title": "Ronud Cheir Edition",
+  "price": "90.00",
+  "main_price": "150.00",
+  "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+  "designer": "Designer :",
+  "designer_name": "Anne Smith",
+  "color_title": "colors :",
+  "color_list": [
+    {
+      "color": "Brown",
+      "class": ""
+    },
+    {
+      "color": "gray",
+      "class": "gray"
+    },
+    {
+      "color": "Dark",
+      "class": "dark"
+    },
+    {
+      "color": "Blue",
+      "class": "blue"
+    }
+  ],
+  "size_title": "Size :",
+  "size_list": [
+    {
+      "size": "s",
+      "size_id": "size-s",
+      "class": ""
+    },
+    {
+      "size": "m",
+      "size_id": "size-m",
+      "class": "gray"
+    },
+    {
+      "size": "l",
+      "size_id": "size-l",
+      "class": "dark"
+    },
+    {
+      "size": "xl",
+      "size_id": "size-xl",
+      "class": "blue"
+    },
+    {
+      "size": "xxl",
+      "size_id": "size-xxl",
+      "class": "blue"
+    }
+  ],
+  "quantity": "Qty :",
+  "buy_button": "Buy Now",
+  "cart_button": "Add to Cart"
+}

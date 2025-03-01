@@ -1,0 +1,9 @@
+{
+  "image": "/image/error-404.png",
+  "width": 1276,
+  "height": 627,
+  "alt": "error image",
+  "title": "Page Not Found",
+  "label": "The page you are looking is not available or has been removed. Try going to Home Page by using the button below.",
+  "button":"Back To Home","page_data":"Error 404"
+}

@@ -1,0 +1,52 @@
+{
+  "header_menu": [
+    {
+      "title": "Home",
+      "slug": "/"
+    },
+    {
+      "title": "Services",
+      "slug": "/service"
+    },
+    {
+      "title": "Gallery",
+      "slug": "/gallery"
+    },
+    {
+      "title": "About",
+      "slug": "/about-us"
+    },
+    {
+      "title": "News",
+      "slug": "/blog"
+    },
+    {
+      "title": "Contact",
+      "slug": "/contact-us"
+    }
+  ],
+  "list_button": [
+    {
+      "image": "/image/user-icon.svg",
+      "width": 17,
+      "height": 19,
+      "alt": "user icon",
+      "class": "user-icon",
+      "link": "/sign-in"
+    },
+    {
+      "image": "/image/wishlist-icon.svg",
+      "width": 20,
+      "height": 17,
+      "alt": "wishlist icon",
+      "class": "wishlist-icon",
+      "link": "/wishlist"
+    }
+  ],
+  "search_icon":"/image/search-icon.svg",
+  "cart_icon":"/image/cart-icon.svg",
+  "toggle_menu_icon":"/image/toggle-menu-icon.svg",
+  "logo_image": "/image/LOGO_NEW.png",
+  "width": 180,
+  "height": 80
+}

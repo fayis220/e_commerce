@@ -1,0 +1,117 @@
+{
+  "title":"Blog Classic",
+  "admin_image": "/image/admin.png",
+  "width": 271,
+  "height": 271,
+  "alt": "blog admin image",
+  "name": "Michelle Gibson",
+  "email": "michelle1209@lorem.com",
+  "categories": "PRODUCT CATEGORIES",
+  "category_list": [
+    "Chairs",
+    "Decor",
+    "Furnitures",
+    "Lighting",
+    "Product Masonry",
+    "Sofas",
+    "Stools",
+    "Uncategorized"
+  ],
+  "latest_post_title": "latest post",
+  "latest_post_list": [
+    {
+      "image": "/image/latest-post-1.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Studio coordinator"
+    },
+    {
+      "image": "/image/latest-post-2.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Ponti morandi"
+    },
+    {
+      "image": "/image/latest-post-3.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Casual Wear bags"
+    },
+    {
+      "image": "/image/latest-post-4.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Latast Fashions Trend"
+    }
+  ],
+  "blog_list": [
+    {
+      "image": "/image/Blog1.png",
+      "width": 951,
+      "height": 447,
+      "alt": "blog classic image",
+      "title": "Latest Fashion Trend for Women new trens, new fashion",
+      "slug": "latest-fashion-trend-for-womens-new-trens-new-fashion",
+      "date": "05 Dec 2013",
+      "name": "Jhon Doi",
+      "label": " Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus . Idque Caesaris facere voluntate liceret: sese habere. pars studiorum, prodita quaerimus .",
+      "read_button": "View More"
+    },
+    {
+      "image": "/image/Blog2.png",
+      "width": 951,
+      "height": 447,
+      "alt": "blog classic image",
+      "title": "Latest Fashion Trend for Women new trens, new fashion",
+      "slug": "latest-fashion-trends-for-women-new-trens-new-fashion",
+      "date": "05 Dec 2013",
+      "name": "Jhon Doi",
+      "label": " Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus . Idque Caesaris facere voluntate liceret: sese habere. pars studiorum, prodita quaerimus .",
+      "read_button": "View More"
+    },
+    {
+      "image": "/image/Blog3.png",
+      "width": 951,
+      "height": 447,
+      "alt": "blog classic image",
+      "title": "Latest Fashion Trend for Women new trens, new fashion",
+      "slug": "latest-fashion-trend-for-women-new-trenss-new-fashion",
+      "date": "05 Dec 2013",
+      "name": "Jhon Doi",
+      "label": " Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus . Idque Caesaris facere voluntate liceret: sese habere. pars studiorum, prodita quaerimus .",
+      "read_button": "View More"
+    },
+    {
+      "image": "/image/Blog4.png",
+      "width": 951,
+      "height": 447,
+      "alt": "blog classic image",
+      "title": "Latest Fashion Trend for Women new trens, new fashion",
+      "slug": "latest-fashion-trend-for-women-new-trens-new--fashion",
+      "date": "05 Dec 2013",
+      "name": "Jhon Doi",
+      "label": " Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus . Idque Caesaris facere voluntate liceret: sese habere. pars studiorum, prodita quaerimus .",
+      "read_button": "View More"
+    },
+    {
+      "image": "/image/Blog1.png",
+      "width": 951,
+      "height": 447,
+      "alt": "blog classic image",
+      "title": "Latest Fashion Trend for Women new trens, new fashion",
+      "slug": "latest-fashion-trend-for-womens-new-trens-new-fashion",
+      "date": "05 Dec 2013",
+      "name": "Jhon Doi",
+      "label": " Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus . Idque Caesaris facere voluntate liceret: sese habere. pars studiorum, prodita quaerimus .",
+      "read_button": "View More"
+    }
+  ]
+}

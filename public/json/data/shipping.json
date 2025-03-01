@@ -1,0 +1,32 @@
+{
+  "shopping_order_list": [
+    {
+      "class": "shopping-cart",
+      "sub_class": "shopping-cart-box",
+      "sign": "1",
+      "title_class": "shopping-cart-title",
+      "title": "Shopping Cart",
+      "label": "Manager your itemsi"
+    },
+    {
+      "class": "checkout",
+      "sub_class": "checkout-box",
+      "sign": "2",
+      "title_class": "checkout-title",
+      "title": "Checkout",
+      "label": "Checkout your items"
+    },
+    {
+      "class": "completed-order",
+      "sub_class": "completed-order-box",
+      "sign": "×",
+      "title_class": "completed-order-title",
+      "title": "Complete Order",
+      "label": "Review and submit order"
+    }
+  ],
+  "state_list": ["State", "Gujarat", "Rajasthan", "Kolkata"],
+  "city_list": ["City", "Surat", "Rajkot", "Ahmedabad"],
+  "country_list": ["Country", "India", "Japan", "Australia"],
+  "title": "Check Out"
+}

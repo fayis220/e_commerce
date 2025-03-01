@@ -1,0 +1,11 @@
+{
+  "sign_in_title": "Sign in",
+  "label": "Free access to our dashboard.",
+  "sign_in_remember": "Remember Me",
+  "signin_link": "Don't have an account?",
+  "signup_title": "Sign Up",
+  "detail": "Already have an account?",
+  "track_label": "  To track your order please enter your Order ID in the box below and press the Track button. This was given to you on your receipt and in the confirmation email you should have received.",
+  "image": "/image/sign-in.png",
+  "track_order_image": "/image/track-order.png","page":"Forgot password","title":"Sign In ","page_data":"Track Order"
+}

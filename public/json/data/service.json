@@ -1,0 +1,82 @@
+{
+  "title": "S ",
+  "whtawe_title": "What We Do",
+  "label": "Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled .",
+  "whatwe_listing": [
+    {
+      "image": "/image/services_1.png",
+      "width": 281,
+      "height": 169,
+      "alt": "blog image",
+      "number": "01",
+      "title": "Windows Design",
+      "slug": "windows-design",
+      "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
+      "read_button": "Read More"
+    },
+    {
+      "image": "/image/services_2.png",
+      "width": 281,
+      "height": 169,
+      "alt": "blog image",
+      "number": "02",
+      "title": "Door Design",
+      "slug": "door-design",
+      "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
+      "read_button": "Read More"
+    },
+    {
+      "image": "/image/services_3.png",
+      "width": 281,
+      "height": 169,
+      "alt": "blog image",
+      "number": "03",
+      "title": "Interior Design",
+      "slug": "interior-design",
+      "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
+      "read_button": "Read More"
+    },
+    {
+      "image": "/image/services_4.png",
+      "width": 281,
+      "height": 169,
+      "alt": "blog image",
+      "number": "04",
+      "title": "Kichen Design",
+      "slug": "kichen-design",
+      "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
+      "read_button": "Read More"
+    }
+  ],
+  "countup": [
+    {
+      "end": "35000",
+      "title": "Happy Customers"
+    },
+    {
+      "end": "541",
+      "sign": "+",
+      "title": "Project Done"
+    },
+    {
+      "end": "40",
+      "sign": "+",
+      "title": "Award Win"
+    },
+    {
+      "end": "678",
+      "title": "Clint Works"
+    }
+  ],
+  "wehave_title": "We Have Everything You Need ?",
+  "detail": "Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit.",
+  "unorderlist_title": "Sample Unordered List",
+  "unorder_list": [
+    "Comodous in tempor ullamcorper miaculis",
+    "Pellentesque vitae neque mollis urna mattis laoreet.",
+    "Divamus sit amet purus justo.",
+    "Proin molestie egestas orci ac suscipit risus posuere loremous"
+  ],
+  "image": "/image/services-details.png",
+  "button": "Contact Us"
+}

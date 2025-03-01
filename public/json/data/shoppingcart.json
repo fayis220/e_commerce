@@ -1,0 +1,53 @@
+{
+  "title":"Shopping Cart",
+  "shopping_order_list": [
+    {
+      "class": "shopping-cart",
+      "sub_class": "shopping-cart-box",
+      "sign": "1",
+      "title_class": "shopping-cart-title",
+      "title": "Shopping Cart",
+      "label": "Manager your itemsi"
+    },
+    {
+      "class": "checkout",
+      "sub_class": "checkout-box",
+      "sign": "×",
+      "title_class": "checkout-title",
+      "title": "Checkout",
+      "label": "Checkout your items"
+    },
+    {
+      "class": "completed-order",
+      "sub_class": "completed-order-box",
+      "sign": "×",
+      "title_class": "completed-order-title",
+      "title": "Complete Order",
+      "label": "Review and submit order"
+    }
+  ],
+  "table_head": ["Product", "Price", "Quantity", "title", "Delete"],
+  "empty_msg": "Your shopping cart is empty",
+  "buttons": [
+    {
+      "label": "Continue Shopping",
+      "href": "/shop",
+      "onClick": null
+    },
+    {
+      "label": "Update Shopping Cart",
+      "href": "/shop",
+      "onClick": null
+    },
+    {
+      "label": "Clear Shopping Cart",
+      "href": "",
+      "onClick": "emptyCart"
+    }
+  ],
+  "discount_btn": "Apply Coupon",
+  "discount_title": "Discount code","discount_label":"Apply Coupon Code if You have One",
+  "sub_total": "Sub Totle",
+  "label": "Check Out With Multiple Address",
+  "checkout_btn": "Proceed To Checkout"
+}

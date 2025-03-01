@@ -1,0 +1,279 @@
+/* =====================================
+Template Name: Furniture E-Commerce
+Author Name: Webby Crown
+Author URI: 
+Description: Furniture - eCommerce HTML5 Template.
+Version:1.0
+========================================*/
+
+@font-face {
+    font-family: 'Marcellus';
+    src: url('../font/Marcellus/Marcellus-Regular.eot');
+    src: url('../font/Marcellus/Marcellus-Regular.eot?#iefix') format('embedded-opentype'), url('../font/Marcellus/Marcellus-Regular.woff2') format('woff2'), url('../font/Marcellus/Marcellus-Regular.woff') format('woff'), url('../font/Marcellus/Marcellus-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Varela Round';
+    src: url('../font/Varela_Round/VarelaRound-Regular.eot');
+    src: url('../font/Varela_Round/VarelaRound-Regular.eot?#iefix') format('embedded-opentype'), url('../font/Varela_Round/VarelaRound-Regular.woff2') format('woff2'), url('../font/Varela_Round/VarelaRound-Regular.woff') format('woff'), url('../font/Varela_Round/VarelaRound-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/**************************************
+    Default Styles
+***************************************/
+
+
+/*-- Variables CSS --*/
+
+:root {
+    --color-primary: #2F1230;
+    --color-dark: #F5DB9F;
+    --color-heading: #212529;
+    --color-white: #ffff;
+    --color-body: #5d5d5d;
+}
+
+
+/*-- Normalize CSS--*/
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+.img-cover {
+    position: relative;
+    overflow: hidden;
+}
+
+.img-cover::before {
+    display: block;
+    content: '';
+    padding-top: 100%;
+}
+
+.img-cover img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    object-position: center;
+    transition: all ease .5s;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active,
+a:hover {
+    outline: 0;
+    text-decoration: none;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+
+.site-content {
+    overflow: hidden;
+}
+
+ul {
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Marcellus';
+}
+
+p {
+    font-size: 16px;
+    color: var(--color-body);
+    line-height: 28px;
+    font-family: 'Varela Round';
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+a,
+button:focus,
+input:focus-visible {
+    outline: 0;
+}
+
+:focus {
+    box-shadow: none !important;
+}
+
+select:focus-visible {
+    outline: 0;
+}
+
+.toggle-btn {
+    display: none;
+    flex-shrink: 0;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show>.btn-primary.dropdown-toggle {
+    color: #000000;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.title {
+    font-size: 36px;
+    color: var(--color-dark);
+    margin-bottom: 0;
+    position: relative;
+}
+
+.btn {
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px 20px;
+    border-radius: 0;
+    position: relative;
+    margin-left: 9px;
+}
+
+.btn:before,
+.btn:after {
+    border-color: var(--color-primary);
+    -webkit-transition: all 0.25s;
+    transition: all 0.25s;
+    border-style: solid;
+    border-width: 0;
+    content: "";
+    height: 24px;
+    position: absolute;
+    width: 24px;
+}
+
+.btn:before {
+    border-left-width: 2px;
+    border-top-width: 2px;
+    left: -8px;
+    top: -8px;
+    width: 50px;
+    height: 30px;
+}
+
+.btn:after {
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+    bottom: -8px;
+    right: -8px;
+    width: 50px;
+    height: 30px;
+}
+
+.btn:hover:before,
+.btn:hover:after {
+    height: 100%;
+    width: 100%;
+    border-color: var(--color-dark);
+}
+
+.btn-primary {
+    color: #F8F8FF;
+    border-color: transparent;
+    background: var(--color-primary);
+}
+
+.btn-primary:hover {
+    border-color: transparent;
+    background: var(--color-dark);
+}
+
+a,
+label,
+span {
+    font-family: 'Varela Round';
+}
+
+
+/* Preloader Animaion */
+
+.no-scroll {
+    overflow: hidden;
+}
+
+.preloader {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 999999999;
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-primary);
+    overflow: hidden;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: center;
+}
+
+.preloader .loader-text {
+    display: inline-block;
+    font-family: 'Marcellus';
+    font-size: 3.75rem;
+    font-weight: bold !important;
+    letter-spacing: 1px;
+    line-height: normal;
+    text-transform: uppercase;
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    -webkit-animation: textclip 1.5s linear infinite;
+    animation: textclip 1.5s linear infinite;
+    background-image: linear-gradient(to right, #C8A165 10%, #fff 50%, #C8A165 60%);
+}
+
+@keyframes textclip {
+    to {
+        background-position: 200% center;
+    }
+}

@@ -1,0 +1,1535 @@
+[
+  {
+    "slug": "wood-clock",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 1,
+    "image": "/image/product-1.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "id": 1,
+        "image": "/image/product-1.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Wood Clock",
+    "price": "90.00",
+    "main_price": "150.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "wood-table",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 5,
+    "id": 2,
+    "image": "/image/product-2.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "id": 2,
+        "image": "/image/product-2.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "wood-table",
+    "price": "90.00",
+    "main_price": "150.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "wood-lamp",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 3,
+    "id": 3,
+    "image": "/image/product-3.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "id": 3,
+        "image": "/image/product-3.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "wood-lamp",
+    "price": "90.00",
+    "main_price": "150.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "sofa",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 4,
+    "image": "/image/product-5.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "id": 4,
+        "image": "/image/product-5.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "sofa",
+    "price": "90.00",
+    "main_price": "150.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "bow-chair",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 5,
+    "id": 5,
+    "image": "/image/product-4.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "id": 5,
+        "image": "/image/product-4.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "bow-chair",
+    "price": "90.00",
+    "main_price": "150.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "handcrafted-modern-lemp",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 6,
+    "image": "/image/single-product.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "id": 6,
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "handcrafted-modern-lemp",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "wooden-design-table",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 21,
+    "image": "/image/shop1.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "image": "/image/shop1.png",
+        "id": 6,
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Wood Table",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "decor",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 22,
+    "image": "/image/shop2.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "image": "/image/shop2.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Decor",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "furnitures",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 23,
+    "image": "/image/shop3.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "image": "/image/shop3.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Furnitures",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "lighting",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 24,
+    "image": "/image/shop4.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "image": "/image/shop4.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Lighting",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "wood-wall-clock",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 25,
+    "image": "/image/shop5.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "image": "/image/shop5.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Wood Clock",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "round-clock",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 26,
+    "image": "/image/shop6.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "image": "/image/shop6.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Round Clock",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "chair",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 27,
+    "image": "/image/shop7.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "image": "/image/shop7.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Chair",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  },
+  {
+    "slug": "stools",
+    "tabs": ["Discription", "Reviews", "Compares", "Shipping"],
+    "detail": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien .",
+    "unorderlist_title": "Sample Unordered List",
+    "unorder_list": [
+      "Comodous in tempor ullamcorper miaculis",
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Divamus sit amet purus justo.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    ],
+    "orderlist_title": "Sample Ordered List",
+    "order_list": [
+      "Pellentesque vitae neque mollis urna mattis laoreet.",
+      "Proin molestie egestas orci ac suscipit risus posuere loremous.",
+      "Comodous in tempor ullamcorper miaculis",
+      "Divamus sit amet purus justo."
+    ],
+    "paragraph_text_title": "Sample Paragraph Text",
+    "paragraph_text": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulu sit amet auctor ipsum",
+    "rating": 4,
+    "id": 28,
+    "image": "/image/shop8.png",
+    "width": 626,
+    "height": 626,
+    "alt": "product image",
+    "product_slider": [
+      {
+        "image": "/image/shop8.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      },
+      {
+        "image": "/image/single-product.png",
+        "width": 626,
+        "height": 626,
+        "alt": "product image"
+      }
+    ],
+    "title": "Stools",
+    "price": "90.00",
+    "main_price": "160.00",
+    "label": "Aenean in mattis velit. Mauris dolor ante, congue a sagittis quis, varius eu jus to. In dictum feugiat sem quis efficitur. Vestibulum velit mi, vestibulum eu laoreet et, porttitor non lorem. Interdum et malesuada ac ante ipsum primis in faucibus. vestibulum eu laoreet et, porttitor non lorem.",
+    "designer": "Designer :",
+    "designer_name": "Anne Smith",
+    "color_title": "colors :",
+    "color_list": [
+      {
+        "color": "Brown",
+        "class": ""
+      },
+      {
+        "color": "gray",
+        "class": "gray"
+      },
+      {
+        "color": "Dark",
+        "class": "dark"
+      },
+      {
+        "color": "Blue",
+        "class": "blue"
+      }
+    ],
+    "size_title": "Size :",
+    "size_list": [
+      {
+        "size": "s",
+        "size_id": "size-s",
+        "class": ""
+      },
+      {
+        "size": "m",
+        "size_id": "size-m",
+        "class": "gray"
+      },
+      {
+        "size": "l",
+        "size_id": "size-l",
+        "class": "dark"
+      },
+      {
+        "size": "xl",
+        "size_id": "size-xl",
+        "class": "blue"
+      },
+      {
+        "size": "xxl",
+        "size_id": "size-xxl",
+        "class": "blue"
+      }
+    ],
+    "quantity": "Qty :",
+    "buy_button": "Buy Now",
+    "cart_button": "Add to Cart"
+  }
+]

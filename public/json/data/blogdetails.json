@@ -1,0 +1,74 @@
+{
+  "page_data":"Blog Details",
+  "admin_image": "/image/admin.png",
+  "width": 271,
+  "height": 271,
+  "alt": "blog admin image",
+  "name": "Michelle Gibson",
+  "email": "michelle1209@lorem.com",
+  "categories": "PRODUCT CATEGORIES",
+  "category_list": [
+    { "title": "Chairs", "slug": "chair" },
+    { "title": "Decor", "slug": "decor" },
+    { "title": "Furnitures", "slug": "furnitures" },
+    { "title": "Lighting", "slug": "lighting" },
+    { "title": "Product Masonry", "slug": "product-masonry" },
+    { "title": "Sofas", "slug": "sofas" },
+    { "title": "Stools", "slug": "stools" },
+    { "title": "Uncategorized", "slug": "uncategorized" }
+  ],
+  "latest_post_title": "latest post",
+  "latest_post_list": [
+    {
+      "image": "/image/latest-post-1.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Studio coordinator"
+    },
+    {
+      "image": "/image/latest-post-2.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Ponti morandi"
+    },
+    {
+      "image": "/image/latest-post-3.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Casual Wear bags"
+    },
+    {
+      "image": "/image/latest-post-4.png",
+      "width": 60,
+      "height": 60,
+      "alt": "latest post image",
+      "date": "April 05, 2020",
+      "title": "Latast Fashions Trend"
+    }
+  ],
+  "image": "/image/Blog1.png",
+  "title": "Latest Fashion Trend for Women new trens, new fashion",
+  "blog_left_image": "/image/Blog-details1.png",
+  "blog_right_image": "/image/Blog-details2.png",
+  "date": "05 Dec 2013",
+  "username": "Jhon Doi",
+  "label": "Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus . Idque Caesaris facere voluntate liceret: sese habere. pars studiorum, prodita quaerimus .",
+  "detail": "Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et magna aliqua. Idque Caesaris facere voluntate liceret: sese habere. Magna pars studiorum, prodita quaerimus . Idque Caesaris facere voluntate liceret: sese habere. pars studiorum, prodita quaerimus .Magna pars studiorum, prodita quaerim us . Idque Caesaris facere voluntate liceret: sese habere. pars studiorum, prodita quaerimus .",
+  "quote": "Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et magna aliqua. Idque Caesaris facere voluntate liceret: sese habere.",
+  "latest_fashion_categories": ["Lighting", "Wood", "Interrior", "Bedroom"],
+  "what_to_title": "What To Expext",
+  "what_to_label": "Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras matti consectetur purus sit amet fermentum. Etiam porta sem malesuada magna mollis euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "expext_list": [
+    "Ipsum Amet Mattis Pellentesque",
+    "Ultricies Vehicula Mollis Vestibulum Fringilla",
+    "Condimentum Sollicitudin Fusce Vestibulum Ultricies",
+    "Sollicitudin Consectetur Quam Ligula Vehicula",
+    "Sollicitudin Consectetur Quam Ligula Vehicula"
+  ]
+}

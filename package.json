@@ -1,0 +1,32 @@
+{
+  "name": "furniture",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@hookform/resolvers": "^3.9.0",
+    "aos": "^2.3.4",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "isotope-layout": "^3.0.6",
+    "next": "14.2.14",
+    "react": "^18.3.1",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.53.0",
+    "react-stars": "^2.2.5",
+    "react-use-cart": "^1.14.0",
+    "swiper": "^11.1.14",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.14"
+  }
+}
