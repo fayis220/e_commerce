@@ -35,17 +35,6 @@
       "slug": "interior-design",
       "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
       "read_button": "Read More"
-    },
-    {
-      "image": "/image/services_4.png",
-      "width": 281,
-      "height": 169,
-      "alt": "blog image",
-      "number": "04",
-      "title": "Kichen Design",
-      "slug": "kichen-design",
-      "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
-      "read_button": "Read More"
     }
   ],
   "countup": [

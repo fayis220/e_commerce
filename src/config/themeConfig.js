@@ -1,5 +1,5 @@
-// const Config_url = 'http://localhost:3000'; // Fallback to localhost if env variable is missing
-const Config_url = "https://e-commerce-smoky-eight.vercel.app"; // Fallback to localhost if env variable is missing
+const Config_url = "http://localhost:3000"; // Fallback to localhost if env variable is missing
+// const Config_url = "https://e-commerce-smoky-eight.vercel.app"; // Fallback to localhost if env variable is missing
 
 const themeConfig = {
   breadcrumb_title: "Home",
