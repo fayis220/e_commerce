@@ -76,12 +76,12 @@ export default function ProductCard({ data }) {
             </div> */}
           </div>
           <div className="our-product-details">
-            <div className="product-details-wrap">
+            <div className="product-details-wrap" Style="padding-top: 20px">
               <h5>{data.title}</h5>
-              <h6>
+              {/* <h6>
                 ${data.price}
-                {/* <span>${data.main_price}</span> */}
-              </h6>
+                <span>${data.main_price}</span>
+              </h6> */}
             </div>
             {data.rating ? (
               <div className="product-star-rating">

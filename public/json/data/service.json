@@ -1,7 +1,7 @@
 {
   "title": "S ",
   "whtawe_title": "What We Do",
-  "label": "Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled .",
+  "label": "We specialize in bespoke luxury furniture, refined interior design, and sophisticated lighting solutions, delivering tailored elegance for exceptional spaces",
   "whatwe_listing": [
     {
       "image": "/image/services_1.png",
@@ -9,7 +9,7 @@
       "height": 169,
       "alt": "blog image",
       "number": "01",
-      "title": "Windows Design",
+      "title": "Interior Design",
       "slug": "windows-design",
       "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
       "read_button": "Read More"
@@ -20,7 +20,7 @@
       "height": 169,
       "alt": "blog image",
       "number": "02",
-      "title": "Door Design",
+      "title": "Customized Furniture",
       "slug": "door-design",
       "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
       "read_button": "Read More"
@@ -31,7 +31,7 @@
       "height": 169,
       "alt": "blog image",
       "number": "03",
-      "title": "Interior Design",
+      "title": "Lighting Solutions",
       "slug": "interior-design",
       "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
       "read_button": "Read More"
@@ -58,13 +58,14 @@
     }
   ],
   "wehave_title": "We Have Everything You Need ?",
-  "detail": "Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit.",
+  "detail": "We provide everything you need for a luxurious and personalized space, from bespoke furniture to elegant lighting and interior design. With expert craftsmanship and innovative design, we create timeless interiors that reflect your unique style",
   "unorderlist_title": "Sample Unordered List",
   "unorder_list": [
-    "Comodous in tempor ullamcorper miaculis",
-    "Pellentesque vitae neque mollis urna mattis laoreet.",
-    "Divamus sit amet purus justo.",
-    "Proin molestie egestas orci ac suscipit risus posuere loremous"
+    "Premium Quality Materials",
+    "Personalized Approach",
+    "Attention to Detail",
+    "Expert Guidance",
+    "One-Stop Destination"
   ],
   "image": "/image/services-details.png",
   "button": "Contact Us"

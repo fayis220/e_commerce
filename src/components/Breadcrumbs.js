@@ -45,6 +45,8 @@ export default function Breadcrumbs({ title }) {
                 data-aos="fade-right"
                 data-aos-delay="200"
                 data-aos-duration="1500"
+                // Style={{ color: "white" }}
+                Style="color:white"
               >
                 {capitalizeFirstLetter(
                   pathSegments[pathSegments.length - 1]?.replace("-", " ")

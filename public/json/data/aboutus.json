@@ -4,18 +4,8 @@
   "image_small2": "/image/about_4.png",
   "about_image": "/image/about_3.png",
   "title": "About Us",
-  "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-  "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation . Lorem ipsum dolor sit amet, consectetur sed",
-  "list": [
-    "Lorem Ipsum has been the indusrty'",
-    "ante metus lacinia tellus, vitae",
-    "Lorem Ipsum has been",
-    "interdum nec venenatis id",
-    "ultricies aliquam convallis.",
-    "et malesuada fames ac ante ipsum",
-    "pretium sit amet purus",
-    "Maecenas ut tellus mi"
-  ],
+  "label": "We redefine luxury through bespoke furniture, exquisite interior design, and sophisticated lighting solutions. Our passion is crafting timeless pieces that blend artistry with functionality. Every creation reflects master craftsmanship, tailored to your unique style and vision. From statement furniture to ambient lighting, we design seamless interiors that exude elegance and comfort. With a commitment to quality and innovation, we bring dreams to life through exceptional design",
+  
   "best_furniture_title": "Find Your Best Furniture",
   "best_furniture_label": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics",
   "skillbar_list": [

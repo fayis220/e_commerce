@@ -1,12 +1,12 @@
 {
   "gallery_list": [
     {
-      "image": "/image/gallery-4.png",
+      "image": "/image/gallery-1.png",
       "width": 393,
       "height": 589,
       "alt": "gallery image",
       "delay": 100,
-      "duration": 1500
+      "duration": 1500                              
     },
     {
       "image": "/image/gallery-11.png",
@@ -17,7 +17,7 @@
       "duration": 1500
     },
     {
-      "image": "/image/gallery-1.png",
+      "image": "/image/gallery-4.png",
       "width": 393,
       "height": 393,
       "alt": "gallery image",
@@ -25,7 +25,7 @@
       "duration": 1500
     },
     {
-      "image": "/image/gallery-9.png",
+      "image": "/image/gallery-5.png",
       "width": 393,
       "height": 393,
       "alt": "gallery image",
@@ -41,7 +41,7 @@
       "duration": 1500
     },
     {
-      "image": "/image/gallery-2.png",
+      "image": "/image/gallery-6.png",
       "width": 1240,
       "height": 476,
       "alt": "gallery image",
@@ -66,7 +66,7 @@
       "duration": 1500
     },
     {
-      "image": "/image/gallery-5.png",
+      "image": "/image/gallery-9.png",
       "width": 393,
       "height": 590,
       "alt": "gallery image",
@@ -82,7 +82,7 @@
       "duration": 1500
     },
     {
-      "image": "/image/gallery-6.png",
+      "image": "/image/gallery-2.png",
       "width": 393,
       "height": 393,
       "alt": "gallery image",

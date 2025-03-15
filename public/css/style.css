@@ -813,8 +813,8 @@ header.main-header.sticky {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 68%;
-    height: 72%;
+    /* width: 90%;
+    height: 72%; */
     object-fit: contain;
 }
 
@@ -828,7 +828,7 @@ header.main-header.sticky {
     font-size: 16px;
     color: #000000;
     font-weight: 500;
-    margin-bottom: 10px;
+    margin-bottom: -5px;
 }
 
 .our-product-details h6 span {
@@ -1525,7 +1525,7 @@ header.main-header.sticky {
 .breadcrumd a,
 .breadcrumd span {
     font-size: 16px;
-    color: #000000;
+    color: #fff;
     font-family: 'Varela Round';
     font-weight: 400;
 }

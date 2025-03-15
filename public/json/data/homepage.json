@@ -1,6 +1,6 @@
 {
-  "hero_title": "Creative Design Modern & Exclusive Furniture",
-  "label": "Loarem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquet nisi nec eros venenatis, ac lacinia justo vulputate. Ut vestibulum, mauris eu mattis rutrum, leo magna eleifend justo, et fringilla velit purus vel nisl. Morbi dignissim tristique lorem, ac vehicula odio luctus eu.",
+  "hero_title": "WHERE LUXURY MEETS PERSONALIZATION",
+  "label": "At Oudcasa, we create bespoke furniture, visionary interiors, and sophisticated lighting that redefine luxury. Each piece blends artistry and functionality, reflecting your unique style. With superior craftsmanship and innovation, we perfect every detail. Our mission is to transform spaces into extraordinary experiences",
   "button": "Explore",
   "button_slug": "/gallery",
   "hero_image": "/image/hero-img.png",
@@ -42,8 +42,8 @@
     {
       "id": 1,
       "image": "/image/product-1.png",
-      "width": 201,
-      "height": 181,
+      "width": 400,
+      "height": 400,
       "alt": "product image",
       "title": "Wood Clock",
       "main_price": "150.00",

@@ -34,6 +34,7 @@ export default function Page({ params }) {
                   data-aos="fade-right"
                   data-aos-delay="100"
                   data-aos-duration="1500"
+                  // Style="color:white"
                 >
                   Search :{" "}
                   {capitalizeFirstLetter(
