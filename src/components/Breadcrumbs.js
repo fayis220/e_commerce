@@ -35,7 +35,7 @@ export default function Breadcrumbs({ title }) {
   return (
     <div
       className="hero-inner-section"
-      style={{ backgroundImage: "url(/image/hero-bg.JPG)" }}
+      style={{ backgroundImage: "url(/image/hero-bg.jpg)" }}
     >
       <div className="container">
         <div className="row">
