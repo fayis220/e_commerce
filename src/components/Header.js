@@ -124,9 +124,12 @@ export default function Header() {
               document.querySelector("body").classList.remove("minicart-open");
           }}
         ></div>
-        {/* <div className="container">
+        <div className="container">
           <div className="header-wrapper">
-            <div className="topbar">
+            <div
+              className="topbar"
+              Style="display:flex; justify-content:space-between"
+            >
               <div className="logo">
                 <Link href="/">
                   <Image
@@ -160,7 +163,11 @@ export default function Header() {
                   </button>
                 </form>
               </div>
-              <div className="header-button-right">
+              {/* <!-- Header button right --> */}
+              <div
+                className="header-button-right"
+                Style="position: absolute;top: 50px;right: 50px;"
+              >
                 <div className="header-button search-form-wrap">
                   <Link
                     className="search-icon"
@@ -210,7 +217,7 @@ export default function Header() {
                     </Link>
                   </div>
                 </div>
-                <div className="header-button">
+                {/* <div className="header-button">
                   {data.list_button &&
                     data.list_button.map((list_data, index) => (
                       <Link
@@ -230,9 +237,9 @@ export default function Header() {
                         />
                       </Link>
                     ))}
-                </div>
+                </div> */}
 
-                <div className="header-button">
+                {/* <div className="header-button">
                   <button
                     name="cart"
                     className="cart-icon"
@@ -249,7 +256,7 @@ export default function Header() {
                       alt="cart icon"
                     />
                   </button>
-                </div>
+                </div> */}
                 <div className="header-button toggle-btn">
                   <Link
                     href=""
@@ -271,15 +278,15 @@ export default function Header() {
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
 
         <div className="header-navbar">
           <div className="container">
             <div
               className={`header-bottom ${isMenuOpen ? "left-menu-open" : ""}`}
             >
-              <div className="mobile-brand">
-                <div className="site-brand">
+              {/* <div className="mobile-brand"> */}
+              {/* <div className="site-brand">
                   <Link href="/">
                     <Image
                       src={
@@ -291,18 +298,19 @@ export default function Header() {
                       height={35}
                       alt="logo"
                     />
-                    {/* <Image src={themeConfig.no_found_logo} width={153} height={35} alt="logo" /> */}
+                    <Image src={themeConfig.no_found_logo} width={153} height={35} alt="logo" />
                   </Link>
-                </div>
-                <div className="toggle-btn close-btn">
-                  <Link
-                    href=""
-                    className={`active ${isMenuOpen ? "menu-active" : ""}`}
-                    onClick={toggleMenu}
-                  >
-                    <i className="fa fa-times"></i>
-                  </Link>
-                </div>
+                </div> */}
+              {/* </div> */}
+
+              <div className="toggle-btn close-btn">
+                <Link
+                  href=""
+                  className={`active ${isMenuOpen ? "menu-active" : ""}`}
+                  onClick={toggleMenu}
+                >
+                  <i className="fa fa-times" style={{ color: "white" }}></i>
+                </Link>
               </div>
 
               <div className="logo">
@@ -321,7 +329,6 @@ export default function Header() {
               </div>
 
               <div className="header-menu">
-                {/* {JSON.stringify(data.logo_image)}ddasdasdasdsd */}
                 <ul>
                   {data.header_menu &&
                     data.header_menu.map((header_data, index) => {
@@ -331,6 +338,7 @@ export default function Header() {
                           key={index}
                           onClick={() => {
                             handleDropdownToggle(header_data.title);
+                            setMenuOpen(false);
                           }}
                         >
                           <Link
@@ -398,12 +406,12 @@ export default function Header() {
               </div>
 
               <div className="header-icon">
-                <Link href="/gallery">Explore</Link>
+                <Link href="/shop">Explore</Link>
               </div>
 
-              <div className="menu-social">
+              {/* <div className="menu-social">
                 <Link href="/sign-in">Sign-in</Link>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

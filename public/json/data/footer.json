@@ -25,40 +25,12 @@
         }
       ]
     },
-    {
-      "title": "Helpful Links",
-      "sub_menu": [
-        {
-          "title": "Services",
-          "slug": "/service"
-        },
-        {
-          "title": "Wishlist",
-          "slug": "/wishlist"
-        },
-        {
-          "title": "Cart",
-          "slug": "/shopping-cart"
-        },
-        {
-          "title": "shipping",
-          "slug": "/shipping"
-        },
-        {
-          "title": "Track Order",
-          "slug": "/track-order"
-        }
-      ]
-    },
+   
     {
       "title": "Our Services",
       "sub_menu": [
         {
           "title": "Brand List",
-          "slug": ""
-        },
-        {
-          "title": "Orders",
           "slug": ""
         },
         {
@@ -72,7 +44,7 @@
       ]
     }
   ],
-  "label": "Copyright © 2021 Design & Developed by webby",
+  "label": "Copyright © 2021 Design & Developed by GreenHopper",
   "image": "/image/LOGO_NEW.png",
   "width": 191,
   "height": 44,
@@ -80,7 +52,7 @@
     {
       "class": "fa-phone-volume",
       "link": "tel:+88123-459-8909",
-      "title": "+88 123-459-8909"
+      "title": "+97 123-459-8909"
     },
     {
       "class": "fa-envelope",

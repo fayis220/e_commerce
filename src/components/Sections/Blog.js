@@ -29,7 +29,7 @@ export default function Blog({ data }) {
         <div className="blog-part">
           <div className="container">
             <div className="row">
-              <BlogSideBar data={data} />
+              {/* <BlogSideBar data={data} /> */}
               <div className="col-lg-9">
                 <div className="blog-right">
                   <div className="blog-grid">

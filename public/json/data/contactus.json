@@ -5,7 +5,7 @@
   "contact_list": [
     {
       "icon": "fas fa-location-arrow",
-      "details": "123 Suspendis matti, Visaosang District, NY Accums, North America",
+      "details": "123 Suspendis matti, international city, Dubai, UAE",
       "type": "address",
       "dataAosDelay": 100
     },
@@ -13,11 +13,11 @@
       "icon": "fas fa-phone-volume",
       "details": [
         {
-          "number": "0193-475-765",
+          "number": "9793-475-765",
           "time": "8am - 8pm"
         },
         {
-          "number": "0123-456-789",
+          "number": "9723-456-789",
           "time": "8am - 9pm"
         }
       ],

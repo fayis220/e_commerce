@@ -118,13 +118,13 @@ Version:1.0
 }
 
 .main-header {
-    background-color: var(--color-white);
+    background-color: var(--color-primary);
     box-shadow: 0px 2px 11px 0px rgba(0, 0, 0, 0.06)
 }
 
 .header-navbar {
     background-color: var(--color-primary);
-    padding: 0px 0;
+    padding: 1px 0;
 }
 
 .header-wrapper .topbar,
@@ -135,7 +135,7 @@ Version:1.0
     justify-content: space-between;
 }
 .main-header {
-    background-color: var(--color-white);
+    background-color: var(--color-primary);
 box-shadow: 0px 2px 11px 0px rgba(0, 0, 0, 0.06);
 position: sticky;
 top: 0;
@@ -316,7 +316,7 @@ header.main-header.sticky {
 
 .header-menu ul li a {
     font-size: 16px;
-    color: #fff;
+    color: var(--color-white);;
     font-family: 'Varela Round';
     font-weight: 400;
     position: relative;
@@ -1392,6 +1392,11 @@ header.main-header.sticky {
 .footer-wrap {
     padding: 60px 0;
     border-bottom: 1px solid #00324773;
+}
+
+.footer-wrap .row{
+   display: flex;
+   justify-content: center;
 }
 
 .copyright-text {
@@ -3925,6 +3930,7 @@ border:none !important;
 }
 
 
+
 /*=====================================
    Start Responsive CSS
 =======================================*/
@@ -4063,6 +4069,11 @@ border:none !important;
 @media screen and (max-width: 1024px) {}
 
 @media screen and (min-width: 992px) {
+    .main-header .container .header-wrapper{
+        display: none;
+        /* height: 130px; */
+    }
+  
     .menu-item:hover>.sub-menu {
         display: block;
     }
@@ -4074,7 +4085,16 @@ border:none !important;
 
 @media screen and (max-width: 991px) {
 
+    .main-header .container .header-wrapper{
+        /* display: none; */
+        height: 130px;
+        display: flex;
+        align-items: center
+        ;
+    }
+
     .header-search-bar,
+    /* .header-menu, */
     .sign-in-up,
     .header-icon {
         display: none;
@@ -4108,7 +4128,7 @@ border:none !important;
         top: 0;
         width: 100%;
         height: 100%;
-        background: var(--color-white);
+        background: var(--color-primary);
         z-index: 99;
         transition: all 0.5s ease;
         overflow-x: scroll;
@@ -4188,7 +4208,7 @@ border:none !important;
         display: flex;
         align-items: center;
         justify-content: space-between;
-        color: var(--color-primary);
+        color: var(--color-white);
         padding: 15px 25px;
     }
 
@@ -4572,6 +4592,7 @@ border:none !important;
 }
 
 @media screen and (min-width: 768px) {
+    
     .shop-product-right .our-product-img:hover .product-cart {
         display: block !important;
         left: 50%;

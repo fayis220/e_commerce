@@ -213,7 +213,7 @@ select:focus-visible {
 .btn-primary {
     color: #F8F8FF;
     border-color: transparent;
-    background: var(--color-primary);
+    background: var(--color-dark);
 }
 
 .btn-primary:hover {

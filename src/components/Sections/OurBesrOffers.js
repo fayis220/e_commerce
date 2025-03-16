@@ -78,9 +78,9 @@ export default function OurBesrOffers({ data }) {
                         >
                           <h3>{data.title}</h3>
                           <p>{data.detail}</p>
-                          <h6>
+                          {/* <h6>
                             $ {data.price} -<span> $ {data.main_price}</span>
-                          </h6>
+                          </h6> */}
                           {/* <div className="best-offer-social">
                                                         <ul>
                                                             <li>
