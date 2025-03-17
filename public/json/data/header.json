@@ -5,20 +5,16 @@
       "slug": "/"
     },
     {
+      "title": "About",
+      "slug": "/about-us"
+    },
+    {
       "title": "Services",
       "slug": "/service"
     },
     {
       "title": "Gallery",
       "slug": "/gallery"
-    },
-    {
-      "title": "About",
-      "slug": "/about-us"
-    },
-    {
-      "title": "News",
-      "slug": "/blog"
     },
     {
       "title": "Contact",

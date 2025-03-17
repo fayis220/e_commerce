@@ -11,7 +11,7 @@
       "number": "01",
       "title": "Interior Design",
       "slug": "windows-design",
-      "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
+      "label": " We transform interiors into breathtaking experiences, combining elegance, comfort, and functionality",
       "read_button": "Read More"
     },
     {
@@ -22,7 +22,7 @@
       "number": "02",
       "title": "Customized Furniture",
       "slug": "door-design",
-      "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
+      "label": " Elevate your space with handcrafted, tailor-made furniture that reflects your unique style",
       "read_button": "Read More"
     },
     {
@@ -33,7 +33,7 @@
       "number": "03",
       "title": "Lighting Solutions",
       "slug": "interior-design",
-      "label": " Lorem Ipsum has been the industry' standard dummy text ever since the 1500 s, when an unknown printer took a galley",
+      "label": "Lighting is more than illumination—it’s an art. Our curated lighting solutions enhance ambiance",
       "read_button": "Read More"
     }
   ],

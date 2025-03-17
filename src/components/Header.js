@@ -405,7 +405,7 @@ export default function Header() {
                 </ul>
               </div>
 
-              <div className="header-icon">
+              <div className="header-icon" Style="visibility:hidden">
                 <Link href="/shop">Explore</Link>
               </div>
 

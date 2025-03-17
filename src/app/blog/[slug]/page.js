@@ -126,7 +126,7 @@ export default function DynamicPage() {
                     <Link href="">
                       <h2>{pageData.title}</h2>
                     </Link>
-                    <div className="blog-time-date">
+                    {/* <div className="blog-time-date">
                       <div className="blog-time">
                         <p>
                           <i className="far fa-clock"></i>
@@ -139,7 +139,7 @@ export default function DynamicPage() {
                           {pageData.username}
                         </p>
                       </div>
-                    </div>
+                    </div> */}
                     <p>{pageData.label}</p>
                     <p>{pageData.detail}</p>
                     <div className="quete-text">
