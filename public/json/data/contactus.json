@@ -13,11 +13,11 @@
       "icon": "fas fa-phone-volume",
       "details": [
         {
-          "number": "9793-475-765",
+          "number": "+8615268607754",
           "time": "8am - 8pm"
         },
         {
-          "number": "9723-456-789",
+          "number": "+971524866599",
           "time": "8am - 9pm"
         }
       ],
@@ -35,7 +35,7 @@
     },
     {
       "icon": "fas fa-envelope-open-text",
-      "details": ["support@domain.com", "support@yahoo.co.in"],
+      "details": ["info@oudcasa.com"],
       "type": "email",
       "dataAosDelay": 400
     }

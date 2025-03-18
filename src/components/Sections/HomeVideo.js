@@ -68,7 +68,7 @@ export default function HomeVideo({ data }) {
                 <iframe
                   width="100%"
                   height="400"
-                  src="https://www.youtube.com/embed/a3ICNMQW7Ok" // Replace with your video URL
+                  //   src="https://www.youtube.com/embed/a3ICNMQW7Ok"
                   title="Video"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

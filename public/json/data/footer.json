@@ -12,15 +12,7 @@
           "slug": "/gallery"
         },
         {
-          "title": "Our Team",
-          "slug": "/our-team"
-        },
-        {
-          "title": "blog",
-          "slug": "/blog"
-        },
-        {
-          "title": "Shop",
+          "title": "Products",
           "slug": "/shop"
         }
       ]
@@ -51,31 +43,27 @@
   "contact": [
     {
       "class": "fa-phone-volume",
-      "link": "tel:+88123-459-8909",
-      "title": "+97 123-459-8909"
+      "link": "tel:+8615268607754",
+      "title": "+8615268607754"
     },
     {
       "class": "fa-envelope",
-      "link": "mailto:support@domain.com",
-      "title": "support@domain.com"
+      "link": "mailto:info@oudcasa.com",
+      "title": "info@oudcasa.com"
     }
   ],
   "social_media": [
     {
-      "link": "https://www.facebook.com/",
+      "link": "https://www.facebook.com/profile.php?id=61572618539280",
       "class": "fa-facebook-f"
     },
     {
-      "link": "https://twitter.com",
-      "class": " fa-twitter"
+      "link": "https://www.linkedin.com/company/oudcasa/",
+      "class": "fa-brands fa-linkedin"
     },
     {
-      "link": "https://www.instagram.com",
+      "link": "https://www.instagram.com/oudcasaofficial",
       "class": "fa-instagram"
-    },
-    {
-      "link": "https://pinterest.com",
-      "class": "fa-pinterest-p"
     }
   ]
 }

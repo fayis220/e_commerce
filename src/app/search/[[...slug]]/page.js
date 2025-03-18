@@ -24,7 +24,7 @@ export default function Page({ params }) {
     <div className="site-content">
       <div
         className="hero-inner-section"
-        style={{ backgroundImage: "url(/image/hero-bg.jpg)" }}
+        style={{ backgroundImage: "url(/image/hero-bg.png)" }}
       >
         <div className="container">
           <div className="row">

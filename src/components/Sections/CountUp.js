@@ -11,7 +11,7 @@ export default function Countup({ data }) {
               <div className="col-12">
                 <div
                   className="count-down-wrapper"
-                  style={{ backgroundimage: "url(/image/hero-bg.jpg)" }}
+                  style={{ backgroundimage: "url(/image/hero-bg.png)" }}
                 >
                   <div className="row">
                     {data.countup && data.countup.length > 0
